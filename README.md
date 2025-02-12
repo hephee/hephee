@@ -1,16 +1,29 @@
-## Hi there 👋
+<div>
+    <img 
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img 
+        src="https://img.shields.io/github/followers/hephee?label=hephee%20Followers&style=social"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
 
-<!--
-**hephee/hephee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## hephee : >
 
-Here are some ideas to get you started:
+AI & 데이터 사이언스에 관심이 많습니다 !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- Python
+- R
+- SQL
+
+<a href="https://instagram.com/eunhee_kkim">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://eh22.tistory.com">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
