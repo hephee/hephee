@@ -29,5 +29,9 @@ AI & 데이터 사이언스에 관심이 많습니다 !
 </a>
 
 #
+<div align="left">
+    
+[![hephee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hephee&show_icons=true&theme=tokyonight)](https://github.com/hephee/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hephee&layout=compact&theme=tokyonight)
 
-[![hephee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hephee)](https://github.com/hephee/github-readme-stats)
+</div>
