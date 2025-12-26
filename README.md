@@ -27,11 +27,3 @@ AI & 데이터 사이언스에 관심이 많습니다 !
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-#
-<div align="left">
-    
-[![hephee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hephee&show_icons=true&theme=tokyonight)](https://github.com/hephee/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hephee&layout=compact&theme=tokyonight)
-
-</div>
